@@ -295,27 +295,27 @@ Para criar um repositório clicamos em "New" decidimos um nome para o repositór
 
 ### Criando um repositório
 
-![Criação](Imagens\Criando-tudo.png)
+![Criação](Criando-tudo.png)
 
 Clicamos no botão ![New](https://img.shields.io/badge/New-COR?style=ESTILO)
 
 ---
-![Nome-Public](Imagens\Nome-Repositorio.png)
+![Nome-Public](Nome-Repositorio.png)
 
 > Colocamos o nome do novo repositório;
 > Descrição é opcional;
 > Público: Visível para toda plataforma GitHub.
 
 ---
-![Readme](Imagens\Readme.png)
+![Readme](Readme.png)
 
 Adicionamos um `ReadmeFile`, para poder adicionar instruções, descrição e especificação.
 Assim podemos clicar no ![Createrepository](https://img.shields.io/badge/Create-repository-COR?style=ESTILO)
 
 ---
-![Depois](Imagens\Depoisss.png)
+![Depois](Depoisss.png)
 > Entrar no arquivo README
 
 ---
-![Dentro](Imagens\EditarOMain.png)
+![Dentro](EditarOMain.png)
 > Editar e então colar seu código
